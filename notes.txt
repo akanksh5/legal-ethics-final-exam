@@ -1,0 +1,12 @@
+Pros and Cons of letting users beta test the system.
+Pros:
+- Helps in getting faster feedback from the user for a given system.
+- Easier to identify edge cases in terms of testing since the users will use the system as intended.
+- Broader scope to test the system since users can have varying combination of system specifications and it'll provide more visibility in terms of different combinations of the specifications.
+- Reduces the time required to release the product to the market.
+
+Cons:
+- Skilled users can identif security vulnerabilities and they can misuse the system to their advantage.
+- Can cost the company a lot of money due to such exploitation.
+- If the users aren't happy, their reviews might impact the product's relevance in the market and months of effort will go in vain.
+- The entire product can't be tested since it is still in beta.
